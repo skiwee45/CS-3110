@@ -23,7 +23,7 @@ let y = { x with age = 42; job = Engineer }
 (* tuples *)
 let tuple1 = (1, 3, 5);;
 
-(* note that [;;] means in the rest of the code *)
+(* note that [;;] means [in] the rest of the code *)
 
 match tuple1 with
 | x, y, z -> print_int x

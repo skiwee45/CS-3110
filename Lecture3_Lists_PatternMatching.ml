@@ -13,6 +13,10 @@ let specialList = [ [ 5 ]; [ 6 ] ]
 (* [@] is append lists. It prepends list1 to list2 in linear time *)
 let largeList = list1 @ list2
 
+(* [list] by itself is not a type, it is a type constructor, [int list] is a
+   type *)
+type specialList = int list
+
 (* tuple, only pairs have methods fst and snd *)
 let pair = (5, 6)
 let first = fst pair
