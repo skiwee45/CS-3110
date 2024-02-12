@@ -1,0 +1,11 @@
+a2/_build/.db
+a2/_build/.digest-db
+a2/_build/.lock
+a2/_build/log
+a2/_build/default/.dune/configurator
+a2/_build/default/.dune/configurator.v2
+a2/_build/default/bin/.merlin-conf/exe-main
+a2/_build/default/test/test_a2.exe
+a2/_build/default/test/.merlin-conf/exe-test_a2
+a2/_build/default/test/.test_a2.eobjs/byte/dune__exe__Test_a2.cmti
+a2/_build/default/test/.test_a2.eobjs/native/dune__exe__Test_a2.o
