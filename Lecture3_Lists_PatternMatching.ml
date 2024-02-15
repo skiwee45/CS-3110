@@ -13,6 +13,20 @@ let specialList = [ [ 5 ]; [ 6 ] ]
 (* [@] is append lists. It prepends list1 to list2 in linear time *)
 let largeList = list1 @ list2
 
+let rec rev lst acc =
+  match lst with
+  | [] -> acc
+  | h :: t -> rev t (h :: acc)
+
+let rec append_helper lst1 lst2 =
+  match lst1 with
+  | [] -> lst2
+  | h :: t -> append_helper t (h :: lst2)
+
+let rec append lst1 lst2 =
+  let rev_lst1 = rev lst1 [] in
+  append_helper rev_lst1 lst2
+
 (* [list] by itself is not a type, it is a type constructor, [int list] is a
    type *)
 type specialList = int list
