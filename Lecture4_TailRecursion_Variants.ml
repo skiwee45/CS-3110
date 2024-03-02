@@ -16,6 +16,7 @@ type color =
   | Green
   | Blue
 
+let pick_red color = if color = Red then true else false
 let color1 = Red
 
 (* constant variant definition, sort of like enum *)
@@ -54,3 +55,5 @@ type temperature =
 let kelvin = function
   | Celcius v -> v +. 273.15
   | Fahrenheit v -> (v +. 459.67) *. 5. /. 9.
+
+let pick_celcius temp = if temp = Celcius 1. then true else false
