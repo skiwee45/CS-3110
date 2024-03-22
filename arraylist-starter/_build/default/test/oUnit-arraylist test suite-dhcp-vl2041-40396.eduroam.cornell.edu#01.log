@@ -1,0 +1,12 @@
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Start test arraylist test suite:0:make; size 0.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Test arraylist test suite:0:make; size 0 is successful.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: End test arraylist test suite:0:make; size 0.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Start test arraylist test suite:2:add; get.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Test arraylist test suite:2:add; get is successful.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: End test arraylist test suite:2:add; get.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Start test arraylist test suite:4:get too big.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Test arraylist test suite:4:get too big is successful.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: End test arraylist test suite:4:get too big.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Start test arraylist test suite:6:grow once; get all; size.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: Test arraylist test suite:6:grow once; get all; size is successful.
+2024-03-20T21:54:37+00:00 dhcp-vl2041-40396.eduroam.cornell.edu#01 I: End test arraylist test suite:6:grow once; get all; size.

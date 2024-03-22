@@ -1,0 +1,4 @@
+(library
+ (name interval)
+ (instrumentation
+  (backend bisect_ppx)))

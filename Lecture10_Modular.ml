@@ -120,4 +120,4 @@ module ListStackSealed : Stack = ListStack
 module MyStackSealed : Stack = MyStack
 (** using t for abstract types is convention, write [MyStackSealed.t] *)
 
-(* write documentation functions in signature only, not implementation *)
+(* write documentation functions tin signature only, not implementation *)
