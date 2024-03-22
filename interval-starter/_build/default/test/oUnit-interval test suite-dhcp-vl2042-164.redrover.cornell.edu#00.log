@@ -1,0 +1,128 @@
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Runner: processes
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Chooser: simple
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration suite_name = "interval test suite"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration cache_filename = "/Users/raymond/Downloads/interval-starter/_build/default/test/oUnit-$(suite_name).cache"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration display = "true"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration testdata_dir = "none"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration health_check_interval = "1."
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration verbose = "false"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration chooser = "simple"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration output_html_dir = "none"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration runner = "processes"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration shards = "2"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration output_junit_file = "none"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration ci = "false"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Configuration output_file = "/Users/raymond/Downloads/interval-starter/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Using 2 workers maximum.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Starting worker number dhcp-vl2042-164.redrover.cornell.edu#01.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Worker dhcp-vl2042-164.redrover.cornell.edu#01 started.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Starting worker number dhcp-vl2042-164.redrover.cornell.edu#02.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Worker dhcp-vl2042-164.redrover.cornell.edu#02 started.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:1:make, interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Start test interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:1:make, interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Start test interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:1:make, interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Test interval test suite:0:contains is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:1:make, interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: End test interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:1:make, interval test suite:0:contains.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:2:add, interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Start test interval test suite:2:add.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:2:add, interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Test interval test suite:2:add is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:2:add, interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Test interval test suite:1:make is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: End test interval test suite:2:add.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:2:add, interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: End test interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:3:sub, interval test suite:1:make.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:4:mult_positive, interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Start test interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:4:mult_positive, interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Start test interval test suite:4:mult_positive.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:4:mult_positive, interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Test interval test suite:3:sub is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:4:mult_positive, interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: End test interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:4:mult_positive, interval test suite:3:sub.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:5:mult_negative, interval test suite:4:mult_positive.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Start test interval test suite:5:mult_negative.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:5:mult_negative, interval test suite:4:mult_positive.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Test interval test suite:4:mult_positive is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:5:mult_negative, interval test suite:4:mult_positive.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: End test interval test suite:4:mult_positive.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:5:mult_negative, interval test suite:4:mult_positive.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:6:div_normal, interval test suite:5:mult_negative.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Start test interval test suite:6:div_normal.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:6:div_normal, interval test suite:5:mult_negative.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Test interval test suite:5:mult_negative is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:6:div_normal, interval test suite:5:mult_negative.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: End test interval test suite:5:mult_negative.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:6:div_normal, interval test suite:5:mult_negative.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:7:div_low0, interval test suite:6:div_normal.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Start test interval test suite:7:div_low0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:7:div_low0, interval test suite:6:div_normal.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Test interval test suite:6:div_normal is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:7:div_low0, interval test suite:6:div_normal.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: End test interval test suite:6:div_normal.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:7:div_low0, interval test suite:6:div_normal.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:8:div_high0, interval test suite:7:div_low0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Start test interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:8:div_high0, interval test suite:7:div_low0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Test interval test suite:7:div_low0 is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:8:div_high0, interval test suite:7:div_low0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: End test interval test suite:7:div_low0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:8:div_high0, interval test suite:7:div_low0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 2 tests running : interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Start test interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 2 tests running : interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: Test interval test suite:8:div_high0 is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 2 tests running : interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#02 I: End test interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 2 tests running : interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 2 tests running: interval test suite:9:div_mid0, interval test suite:8:div_high0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 1 tests running : interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 1 tests running: interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: Test interval test suite:9:div_mid0 is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 1 tests running : interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 1 tests running: interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#01 I: End test interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Still 1 tests running : interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 1 tests running: interval test suite:9:div_mid0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: 0 tests running: .
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Worker dhcp-vl2042-164.redrover.cornell.edu#02 has ended.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Worker dhcp-vl2042-164.redrover.cornell.edu#01 died unexpectedly.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Used 2 worker during test execution.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Run 4 tests with shard dhcp-vl2042-164.redrover.cornell.edu#02.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Run 6 tests with shard dhcp-vl2042-164.redrover.cornell.edu#01.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Check health of shard dhcp-vl2042-164.redrover.cornell.edu#02, 4 times.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Check health of shard dhcp-vl2042-164.redrover.cornell.edu#01, 2 times.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: ==============
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Summary:
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:9:div_mid0 is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:8:div_high0 is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:7:div_low0 is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:6:div_normal is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:5:mult_negative is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:4:mult_positive is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:3:sub is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:1:make is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:2:add is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Test interval test suite:0:contains is successful.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Ran: 10 tests in: 0.11 seconds.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Cases: 10.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Tried: 10.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Errors: 0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Failures: 0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Skip: 0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Todo: 0.
+2024-03-12T19:50:46+00:00 dhcp-vl2042-164.redrover.cornell.edu#00 I: Timeout: 0.

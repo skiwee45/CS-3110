@@ -1,0 +1,4 @@
+(library
+ (name arraylist)
+ (instrumentation
+  (backend bisect_ppx)))
